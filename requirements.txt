@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+langchain
+openai
+pinecone-client
+requests
+twilio
+python-dotenv
